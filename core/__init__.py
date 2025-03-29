@@ -1,0 +1,1 @@
+"""Core module for Dependency Booster functionality.""" 

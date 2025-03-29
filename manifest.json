@@ -1,0 +1,12 @@
+{
+    "package": "dependency_booster",
+    "name": "Dependency Booster",
+    "mod": 0,
+    "conflicts": [],
+    "min_point_version": 0,
+    "max_point_version": 0,
+    "branch_index": 0,
+    "human_version": "0.1.0",
+    "homepage": "https://github.com/beniscoding/anki-dependency-booster",
+    "update_enabled": true
+} 

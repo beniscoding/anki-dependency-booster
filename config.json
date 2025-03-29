@@ -1,0 +1,7 @@
+{
+    "maturity_threshold": 21,
+    "detection_method": "tags",
+    "last_boost_time": null,
+    "days_to_check": 7,
+    "auto_boost_enabled": false
+} 
